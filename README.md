@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rohan Thapa
 
-<!--
-**ItsRohanThapa/ItsRohanThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Researcher • Speech & Language • Representation Learning
 
-Here are some ideas to get you started:
+I'm an AI/ML researcher working at the intersection of **speech, language, and deep learning**. My interests include **Natural Language Processings, Speech Technology and Signal Processing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on research involving **speech representation learning and multimodal modelling**.
+
+### 🔬 Interests
+
+- 🎙️ Speech & Audio Processing
+- 💬 NLP & Multimodal Learning
+- 🌏 Low-Resource & Cross-Lingual Speech
+
+### 🛠️ Tech
+
+`Python` `PyTorch` `TensorFlow` `Transformers` `Whisper` `WavLM` `Hugging Face` `scikit-learn` `Linux`
+
+### 📫 Connect
+
+[GitHub](https://github.com/ItsRohanThapa) • [LinkedIn](https://www.linkedin.com/in/rohan-thapa-637625244/) • 
