@@ -2,7 +2,8 @@
 
 ### AI/ML Researcher • Speech & Language • Representation Learning
 
-I'm an AI/ML researcher working at the intersection of **speech, language, and deep learning**. My interests include **Natural Language Processings, Speech Technology and Signal Processing**.
+I'm a 2nd-year MS-Research scholar at IIT Indore,  who believes that Computer Science is the art of solving real life problems.
+As an AI/ML researcher working at the intersection of **speech, language, and deep learning**. My interests include **Natural Language Processings, Speech Technology and Signal Processing**.
 
 Currently working on research involving **speech representation learning and multimodal modelling**.
 
