@@ -13,7 +13,6 @@ Currently working on research involving **speech representation learning and mul
 
 - 🎙️ Speech & Audio Processing
 - 💬 NLP & Multimodal Learning
-- 🌏 Low-Resource & Cross-Lingual Speech
 
 ### 🛠️ Tech
 
